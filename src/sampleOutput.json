@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": { "id": "cbc-news", "name": "CBC News" },
+      "author": "CBC News",
+      "title": "Tiny and unregulated, ultrafine particles have the potential to cause major health problems",
+      "description": "A thousand times thinner than a strand of hair, ultrafine particles are emitted by vehicles and industrial activity — and according to a recent study led by researchers at McGill University, contribute to more than 1,000 premature deaths a year in Montreal an…",
+      "url": "https://www.cbc.ca/newsinteractives/features/ultrafine-particles",
+      "urlToImage": "https://www.cbc.ca/newsinteractives/content/images/ultrafine-share-image.png",
+      "publishedAt": "2024-12-27T08:37:17.7965911Z",
+      "content": "When we talk about air pollution, most of us probably think about smog or the smoke associated with wildfires.\r\nBut scientists are learning more about a category of pollutants that are smaller in sta… [+758 chars]"
+    },
+    {
+      "source": { "id": "fox-sports", "name": "Fox Sports" },
+      "author": null,
+      "title": "2024-25 College Football Playoff: Bracket, schedule, rankings, scores, more",
+      "description": "Check out this article for a complete list of 2024-2025 college football bowl games, including dates, times, how to watch, and more.",
+      "url": "https://www.foxsports.com/stories/college-football/2024-25-college-football-playoff-bracket-schedule-rankings-scores-more",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/09/1408/814/CFP-logo-wide.jpg?ve=1&tl=1",
+      "publishedAt": "2024-12-26T23:01:39Z",
+      "content": "The 2024-2025 college football bowl season is here, and you won't want to miss any of the action. Check out the complete schedule below, including dates, times, how to watch, TV channels and results … [+3426 chars]"
+    },
+    {
+      "source": { "id": "liberation", "name": "Libération" },
+      "author": "Cédric Mathiot, Pauline Moullot",
+      "title": "Les chiffres officiels des hospitalisations liées au Covid-19 sont-ils gonflés ?",
+      "description": "La publication d'un article de «Nice-Matin» mi-janvier a relancé la polémique sur la manière dont les statistiques sont fabriquées.",
+      "url": "http://www.liberation.fr/checknews/2021/02/01/les-chiffres-officiels-des-hospitalisations-liees-au-covid-19-sont-ils-gonfles_1817820",
+      "urlToImage": "https://medias.liberation.fr/photo/1375353-french-hospital-faces-second-wave-of-covid-19-patients.jpg?modified_at=1612191406&amp;picto=fb&amp;ratio_x=191&amp;ratio_y=100&amp;width=1080",
+      "publishedAt": "2021-02-01T12:42:15Z",
+      "content": "Search\r\nDirect\r\nUser\r\n100\r\nZoom\r\nQuiz\r\n?\r\nLibération Diamond\r\nclock\r\nxml\r\nnetvibes\r\nlive\r\nanciens-numeros\r\ndata\r\ndesintox\r\ndiapo\r\nedito\r\nelection-2017\r\nelection\r\nessentiel\r\ngenerique\r\nidee\r\njo\r\nnext\r… [+467 chars]"
+    }
+  ]
+}
